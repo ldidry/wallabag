@@ -66,3 +66,7 @@ parameters:
 
     # sentry logging
     sentry_dsn: ~
+
+    # load custom css file
+    # create a file named custom.css in web directory and set to true to load it
+    custom_css: false
